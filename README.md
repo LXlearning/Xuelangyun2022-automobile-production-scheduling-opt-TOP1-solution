@@ -1,7 +1,7 @@
 # 2022-Xuelangyun-automobile-production-scheduling-opt-TOP1-solution
 ## 方案说明
-* 方案解析: 
-* 赛题地址:  [雪浪算力开发者大赛](https://www.xuelangyun.com/#/cdc)
+* [方案解析](https://mp.weixin.qq.com/s/nORSnpYJp1kcIrdzg8lEDA)
+* [赛题地址](https://www.xuelangyun.com/#/cdc)
 
 ## 代码运行
 
