@@ -5,3 +5,4 @@ __pycache__/
 data/interim/*.csv
 data/output/*.csv
 data/raw/*.csv
+data/output/*.xlsx

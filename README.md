@@ -3,6 +3,7 @@
 * [方案解析](https://mp.weixin.qq.com/s/nORSnpYJp1kcIrdzg8lEDA)
 * [赛题地址](https://www.xuelangyun.com/#/cdc)
 
+
 ## 代码运行
 
 ```
@@ -31,4 +32,10 @@ python ./src/single_pymoo_main.py --name data_103
     │                         generated with `pip freeze > requirements.txt`
     └── src                <- Source code for use in this project.
 
+
+## 公众号
+
+欢迎关注公众号
+
+<img src="./docs/pics/code.jpg" width = "25%" />
 
